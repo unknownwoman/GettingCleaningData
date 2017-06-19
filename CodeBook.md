@@ -37,6 +37,6 @@ The file name is CleanData.mean.std. (this addresses question 2)
 4. Then the file is also made more readable by rearranging columns and I have added names to activity. 
 This addresses question 3 and 4. The file is still called CleanData.mean.std
 
-5. Finally, Icreated another tidy data set with the average of each variable for each activity and each subject.
+5. Finally, I created another tidy data set with the average of each variable for each activity and each subject.
 The file name is summary. (this addresses last question)
 
